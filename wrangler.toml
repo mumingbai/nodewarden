@@ -23,6 +23,3 @@ class_name = "NotificationsHub"
 binding = "ATTACHMENTS"
 bucket_name = "nodewarden-attachments"
 
-[[migrations]]
-tag = "v1-notifications-hub"
-new_sqlite_classes = [ "NotificationsHub" ]
